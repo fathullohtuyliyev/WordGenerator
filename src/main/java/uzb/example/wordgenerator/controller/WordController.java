@@ -30,7 +30,8 @@
 //
 //        // Paragrafga matn qo'shish
 //        XWPFRun run = paragraph.createRun();
-//        run.setText("XWPFParagraph Apache POI kutubxonasi tomonidan taqdim etilgan va Apache POI tavsifli yozilgan Microsoft Word fayllarini boshqarish uchun mo'ljallangan");
+//        run.setText("XWPFParagraph Apache POI kutubxonasi
+//        tomonidan taqdim etilgan va Apache POI tavsifli yozilgan Microsoft Word fayllarini boshqarish uchun mo'ljallangan");
 //
 //
 //        // Hujjatni diskda saqlash
@@ -41,3 +42,6 @@
 //        return "Word hujjati yaratilgan va diskda saqlanadi.";
 //    }
 //}
+
+
+
